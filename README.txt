@@ -13,10 +13,10 @@ Jones, Bob: 1 "Introduction to Computer Science" "A-"
 
 Johnson, Sarah: 2 "Data Structures" "B+"
 
-![CIS317 Unit 3 Graded Exercise Form Example1](C:\Users\Student\Downloads\CIS317_Unit3_Graded_1.png?raw=true "Empty Form")
+![CIS317 Unit 3 Graded Exercise Form Example1](C:\Users\Student\Documents\Visual Studio 2017\Projects\CIS317 - Adv. C#\GradeInfoForm\readme-images\CIS317_Unit3_Graded_1.png?raw=true "Empty Form")
 Figure 1: Text Box
 
 Using the form to open a new file, the file data would appear at the bottom, in the box marked “Grades (Figure 2).
 
-![CIS317 Unit 3 Graded Exercise Form Example2](C:\Users\Student\Downloads\CIS317_Unit3_Graded_2.png?raw=true "Display Form Information")
+![CIS317 Unit 3 Graded Exercise Form Example2](C:\Users\Student\Documents\Visual Studio 2017\Projects\CIS317 - Adv. C#\GradeInfoForm\readme-images\CIS317_Unit3_Graded_2.png?raw=true "Display Form Information")
 Figure 1: Text Box
