@@ -5,13 +5,13 @@ Create a program that stores student grades in a text file. The file should cont
 
 The entries should be displayed in the following format:
 
-	LastName, FirstName: ID# Class Grade (Figure 1)
+LastName, FirstName: ID# Class Grade (Figure 1)
 
-	We list some sample data below:
+We list some sample data below:
 
-		Jones, Bob: 1 "Introduction to Computer Science" "A-"
+	Jones, Bob: 1 "Introduction to Computer Science" "A-"
 
-		Johnson, Sarah: 2 "Data Structures" "B+"
+	Johnson, Sarah: 2 "Data Structures" "B+"
 
 ![CIS317 Unit 3 Graded Exercise Form Example1](readme-images/CIS317_Unit3_Graded_1.png?raw=true "Empty Form")
 
